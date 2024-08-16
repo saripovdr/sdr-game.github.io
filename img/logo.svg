@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200"
+   height="200"
+   viewBox="0 0 52.916665 52.91667"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="logo4.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     units="px"
+     showborder="false"
+     inkscape:zoom="0.33896956"
+     inkscape:cx="973.53874"
+     inkscape:cy="299.43692"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid118084" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1319">
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.26427;stroke-linecap:square"
+         id="ellipse1321"
+         cx="105.83332"
+         cy="105.83334"
+         rx="105.70119"
+         ry="105.70121" />
+    </clipPath>
+    <rect
+       x="67.71788"
+       y="259.21802"
+       width="196.50574"
+       height="49.052013"
+       id="rect3290" />
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1449"
+       transform="scale(0.25)">
+      <g
+         id="g988"
+         mask="none"
+         clip-path="url(#clipPath1319)"
+         transform="matrix(1.0012502,0,0,1.0012502,-0.13229867,-0.13229867)">
+        <g
+           id="g118093"
+           transform="matrix(1.6726192,0,0,11.648746,-0.13738426,-343.3428)"
+           inkscape:export-filename="/home/saripovdr/Изображения/f1.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <rect
+             style="fill:#f9a83a;fill-opacity:1;stroke-width:1.00012;stroke-linecap:square"
+             id="rect882"
+             width="18.150988"
+             height="18.150988"
+             x="0.082137197"
+             y="29.474659" />
+          <rect
+             style="fill:#ff4c4c;fill-opacity:1;stroke-width:1.00012;stroke-linecap:square"
+             id="rect964"
+             width="18.150988"
+             height="18.150988"
+             x="17.991663"
+             y="29.49444" />
+          <rect
+             style="fill:#865c7a;fill-opacity:1;stroke-width:1.00012;stroke-linecap:square"
+             id="rect11615"
+             width="18.150988"
+             height="18.150988"
+             x="36.158031"
+             y="29.48698" />
+          <rect
+             style="fill:#4e7b5c;fill-opacity:1;stroke-width:1.00012;stroke-linecap:square"
+             id="rect32681"
+             width="18.150988"
+             height="18.150988"
+             x="54.247265"
+             y="29.486982" />
+          <rect
+             style="fill:#aa8263;fill-opacity:1;stroke-width:1.00012;stroke-linecap:square"
+             id="rect45672"
+             width="18.150988"
+             height="18.150988"
+             x="72.300697"
+             y="29.48698" />
+          <rect
+             style="fill:#8ebed3;fill-opacity:1;stroke-width:1.00012;stroke-linecap:square"
+             id="rect53203"
+             width="18.150988"
+             height="18.150988"
+             x="90.389931"
+             y="29.48698" />
+          <rect
+             style="fill:#d06370;fill-opacity:1;stroke-width:1.00012;stroke-linecap:square"
+             id="rect60110"
+             width="18.150988"
+             height="18.150988"
+             x="108.47918"
+             y="29.48698" />
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.84376919,0,0,0.84376919,-31.920461,-131.9356)"
+         id="text3288"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect3290);fill:#ffffff;fill-opacity:1;stroke:none"><tspan
+           x="67.71875"
+           y="294.60938"
+           id="tspan959"><tspan
+             style="font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal'"
+             id="tspan957">SDR-Game</tspan></tspan></text>
+    </g>
+  </g>
+</svg>
