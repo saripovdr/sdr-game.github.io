@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1280"
+   height="720"
+   viewBox="0 0 338.66666 190.50001"
+   version="1.1"
+   id="svg13550"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="f24.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview13552"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:showpageshadow="false"
+     units="px"
+     inkscape:zoom="0.73940797"
+     inkscape:cx="714.08481"
+     inkscape:cy="389.50081"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid429" />
+  </sodipodi:namedview>
+  <defs
+     id="defs13547">
+    <rect
+       x="119.86948"
+       y="240.60007"
+       width="1244.9423"
+       height="239.30872"
+       id="rect699" />
+    <rect
+       x="1.0599523"
+       y="0.89510798"
+       width="901.34568"
+       height="206.98923"
+       id="rect651" />
+    <rect
+       x="1.0536994"
+       y="-0.2073555"
+       width="564.94239"
+       height="187.97989"
+       id="rect543" />
+    <rect
+       x="2.2727591"
+       y="3.8751417"
+       width="437.6151"
+       height="177.85083"
+       id="rect485" />
+    <rect
+       x="1.0599523"
+       y="0.89510798"
+       width="779.30609"
+       height="215.60364"
+       id="rect651-9" />
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text483"
+       style="font-weight:bold;font-size:96px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;white-space:pre;shape-inside:url(#rect485);display:inline;fill:#ff00ff" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-5.8208336,3.7041668)"
+       id="text541"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:149.333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect543);display:inline;fill:#800080" />
+    <g
+       id="g413">
+      <g
+         id="g472">
+        <rect
+           style="fill:#fff5f5;fill-opacity:1;stroke-width:1.0981;stroke-linecap:square"
+           id="rect13451-6"
+           width="338.66666"
+           height="190.5"
+           x="0"
+           y="0" />
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,129.35955,138.15008)"
+         id="text649-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:149.333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect651-9);display:inline;fill:#800080"><tspan
+           x="37.316379"
+           y="136.76892"
+           id="tspan436">Ээ Юю Яя</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-21.166674,10.054167)"
+         id="text649"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:149.333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect651);display:inline;fill:#800080"><tspan
+           x="141.12064"
+           y="136.76892"
+           id="tspan438">Аа Бб Вв</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-27.516678,-1.5875003)"
+         id="text697"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect699);display:inline;fill:#800080"><tspan
+           x="244.53299"
+           y="327.94763"
+           id="tspan440">Порядковые номера 
+</tspan><tspan
+           x="184.00482"
+           y="447.94763"
+           id="tspan442">букв русского алфавита</tspan></text>
+    </g>
+  </g>
+</svg>
